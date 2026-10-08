@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAgent", "FirstAgent\FirstAgent.csproj", "{947A8F60-B72F-48FC-9792-821A41F8B66D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsSummarizer", "NewsSummarizer\NewsSummarizer.csproj", "{56B5FA74-2864-49F5-8C2D-F2344807C62F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{947A8F60-B72F-48FC-9792-821A41F8B66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{947A8F60-B72F-48FC-9792-821A41F8B66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{947A8F60-B72F-48FC-9792-821A41F8B66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B5FA74-2864-49F5-8C2D-F2344807C62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B5FA74-2864-49F5-8C2D-F2344807C62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B5FA74-2864-49F5-8C2D-F2344807C62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B5FA74-2864-49F5-8C2D-F2344807C62F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
